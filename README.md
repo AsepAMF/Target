@@ -9,4 +9,5 @@ $ git clone https://github.com/AsepAMF/Target
 
 $ cd Target
 
-$ sh Target.sh
+$ python2 Target.py
+
