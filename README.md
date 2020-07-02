@@ -5,9 +5,9 @@ $ pkg update && pkg upgrade
 
 $ pkg install git
 
-$ git clone https://github.com/AsepAMF/targetV
+$ git clone https://github.com/AsepAMF/roni
 
-$ cd targetV
+$ cd roni
 
-$ sh targetV.sh
+$ sh roni66.sh
 
